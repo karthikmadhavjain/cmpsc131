@@ -2,7 +2,7 @@
 
 int main(void) {
   char name [40];
-  printf("\nEnter your name: ");
+  printf("Enter your name: ");
   scanf("%s",name);
   printf("\nHello, %s",name);
   printf("!\n");
